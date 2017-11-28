@@ -12,3 +12,17 @@ C:\Users\Dananjaya Mahamalage\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj
 C:\Users\Dananjaya Mahamalage\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WorkshopManagementSystem.Properties.Resources.resources
 C:\Users\Dananjaya Mahamalage\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WorkshopManagementSystem.exe
 C:\Users\Dananjaya Mahamalage\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WorkshopManagementSystem.pdb
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\bin\Debug\WorkshopManagementSystem.exe.config
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\bin\Debug\WorkshopManagementSystem.exe
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\bin\Debug\WorkshopManagementSystem.pdb
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.addUser.resources
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.loginForm.resources
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.mainWindow.resources
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.Properties.Resources.resources
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.exe
+C:\Users\Dananjaya Mahamalage\source\repos\WorkshopManagementSystem\WorkshopManagementSystem\obj\Debug\WorkshopManagementSystem.pdb
